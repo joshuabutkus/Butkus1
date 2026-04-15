@@ -49,4 +49,4 @@ Busy, affluent homeowners undertaking custom luxury residential projects who wan
 
 ---
 
-_This overview was drafted from the public site at alpineor.com._
+_This overview was drafted from the public site at alpineor.com. Last revised: April 2026._
