@@ -2,8 +2,7 @@
 name: bd-contacts
 description: >
   Use this agent to add, update, or look up contacts in the BD Contacts Notion
-  database. Invoke when the user says things like "add a contact", "log a new
-  contact", "update [name]'s info", "find [name]", or "who is [name]".
+  database. Invoke when the user says "JBD".
 tools:
   - mcp__169b1d42-8365-4b0a-b1a8-4ad15444aaef__notion-fetch
   - mcp__169b1d42-8365-4b0a-b1a8-4ad15444aaef__notion-search
